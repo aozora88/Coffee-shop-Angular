@@ -1,1 +1,1 @@
-# Coffee-shop-Angular
+# Coffee Shop - Angular
